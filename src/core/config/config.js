@@ -5,7 +5,7 @@ dotenv.config();
 const developmentConfig = {
     host: "localhost",
     port: 3306,
-    name: "sg_qui",
+    name: "sgqui_v2",
     dialect: "mysql",
     user: "root",
     password: ""
