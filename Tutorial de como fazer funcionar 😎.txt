@@ -3,3 +3,7 @@ Passo 2 - Loga no Postman no SG_QUI
 Passo 3 - Dá npm install
 Passo 4 - Dá npm run dev
 Passo 5 - Valeu me pague uma coxinha dps
+
+
+docker compose up --build
+docker compose down
